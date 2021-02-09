@@ -7,4 +7,5 @@
 Sou desenvolvedora de Front-End, gosto muito de criar projetos novos e aprender novas ferramentes. Mas também adoro um desafio de fazer algo com que eu ainda não tenho tanta familiaridade.
 
 - [Website] 💻 - Working on it.
-- [Curriculo] (https://drive.google.com/file/d/1KKhUuz3Ed_STIZ_MZUdTiaKnBLYamGmt/view) - Curriculo
+- [Curriculo](https://drive.google.com/file/d/1KKhUuz3Ed_STIZ_MZUdTiaKnBLYamGmt/view/) - Curriculo
+
