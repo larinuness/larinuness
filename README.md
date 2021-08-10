@@ -1,11 +1,33 @@
 # Olá, eu sou a Larissa! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/larinuness)](https://github.com/larinuness)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-nunes-331900168/)](https://www.linkedin.com/in/larissa-nunes-331900168/)
-
 ### Sobre mim :two_hearts:
-Seja bem vindo ao meu perfil, aqui eu posto projetos de tecnologias que estou aprendendo. Eu amo muito mexer com front-end, mas gosto de me arriscar com outras tecnologias. Já tenho uma formação em Analise e Desenvolvimentos de Sistemas, e agora comecei a cursar Sistemas para internet.
+Seja bem vindo ao meu perfil, aqui eu posto projetos de tecnologias que estou aprendendo. Recentemente escolhi sair do front-end e explorar mobile, atualmente estou trabalhand com Flutter e estou me apaixonando cada vez mais. :heart:
 
-- [Website] 💻 - Em construção.
-- [Curriculo](https://drive.google.com/file/d/1KKhUuz3Ed_STIZ_MZUdTiaKnBLYamGmt/view?usp=sharing) - Curriculo
+<div>
+  <a href="https://github.com/larinuness">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larinuness&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larinuness&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Jade-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Jade-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> 
+  <img align="center" alt="Jade-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">  
+</div>
+  
+  
+  <div>
+      <a href="https://instagram.com/larinunesss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lalanunnes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/larissa-nunes-331900168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
+  ![Snake animation](https://github.com/larinuness/larinuness/blob/output/github-contribution-grid-snake.svg)
+  
+  
+
 
