@@ -16,7 +16,8 @@ Seja bem vindo ao meu perfil, aqui eu posto projetos de tecnologias que estou ap
   <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="Lari-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> 
-  <img align="center" alt="Lari-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">  
+  <img align="center" alt="Lari-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
+ <img align="right" height="150" widht="150" src="https://github.com/larinuness/larinuness/blob/main/me.png">
 </div>
   
   ##
