@@ -1,4 +1,4 @@
-# Olá, eu sou a Larissa! :D
+# Olá, eu sou a Larissa! :star:
 
 ### Sobre mim :two_hearts:
 - Seja bem vindo ao meu perfil, aqui eu posto projetos de tecnologias que estou aprendendo. Recentemente escolhi sair do front-end e explorar mobile, atualmente estou trabalhand com Flutter e estou me apaixonando cada vez mais. :heart:
