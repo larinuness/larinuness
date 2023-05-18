@@ -2,7 +2,7 @@
 
 ### Sobre mim :two_hearts:
 - Seja bem vindo ao meu perfil, aqui eu posto projetos de tecnologias que estou aprendendo. Recentemente escolhi sair do front-end e explorar mobile, atualmente estou trabalhando com Flutter e estou me apaixonando cada vez mais. :heart:
-- Amo ver séries e jogos, principalmente League of Legends que é meu favorito :smiling_face_with_three_hearts: 
+
 
  <div>
   <a href="https://github.com/larinunesss">
